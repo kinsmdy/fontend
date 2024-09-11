@@ -1,0 +1,11 @@
+.card-container{
+  background-color:#FF66CC;
+  border-radius:5px ;
+  box-sizing: 0px 10px 20px -10px rgba(0,0,0,0.75) ;
+  color: #CCFFFF;
+  padding-top: 30px;
+  position: relative;
+  width: 350px;
+  max-width: 100px;
+  text-align: center;
+}
